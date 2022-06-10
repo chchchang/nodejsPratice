@@ -1,0 +1,22 @@
+{
+  "name": "nodejspratice",
+  "version": "1.0.0",
+  "description": "node js and express pratice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chchchang/nodejsPratice.git"
+  },
+  "author": "chchchang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chchchang/nodejsPratice/issues"
+  },
+  "homepage": "https://github.com/chchchang/nodejsPratice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
